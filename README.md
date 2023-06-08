@@ -1,70 +1,15 @@
-# Getting Started with Create React App
+Project README
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hi there, I'm Ilyascan Olgun, and I'm super excited to share with you the amazing project I've built using React. It's a fantastic real estate website that lets you navigate through the areas in London to find different homes.
 
-## Available Scripts
+Features Of the Site 
 
-In the project directory, you can run:
+    React Router: I've utilized React Router to ensure a smooth and seamless browsing experience. By implementing different routes for the home page and individual property pages, I've crafted an intuitive navigation system. You'll find it easy to explore the website and discover properties without any hiccups.
 
-### `npm start`
+    Filtering: I've taken things up a notch by implementing a powerful filtering mechanism. Now you can easily search for properties based on location, property type, and price range. With each filter selection, the search results dynamically update, giving you the perfect matches every time.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+    Responsive Design: I've dedicated considerable effort to creating a responsive design that seamlessly adjusts to various screen sizes. Whether you're using a laptop, tablet, or smartphone, the website will maintain its visual appeal and offer a captivating browsing experience. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+    A Dash of Excitement with Loading Animation: Just to keep things fun and exciting, I've added a nifty loading animation that appears while the search results are being fetched. This not only adds a touch of style but also assures you that the website is hard at work behind the scenes, making sure you get the best results.
+    
+    If you have found this prject through my portfolio, please make sure you click on the live demo button to see the site.
