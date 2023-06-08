@@ -1,0 +1,32 @@
+.featured-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 70px;
+}
+
+.featured-images {
+  width: 200px;
+  opacity: 0.4;
+}
+
+.featured-container .col-md-6 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+@media only screen and (max-width: 767px) {
+  .featured-images {
+    width: 150px;
+    opacity: 0.4;
+  }
+  .featured-container {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .featured-container {
+    padding-top: 30px;
+  }
+}
