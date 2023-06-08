@@ -12,4 +12,4 @@ Features Of the Site
 
     A Dash of Excitement with Loading Animation: Just to keep things fun and exciting, I've added a nifty loading animation that appears while the search results are being fetched. This not only adds a touch of style but also assures you that the website is hard at work behind the scenes, making sure you get the best results.
     
-    If you have found this prject through my portfolio, please make sure you click on the live demo button to see the site.
+    If you have found this project through my portfolio, please make sure you click on the live demo button to see the site.
