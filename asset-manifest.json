@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/homyzrealestate/static/css/main.41c403ed.css",
+    "main.js": "/homyzrealestate/static/js/main.e87e05e1.js",
+    "static/js/787.f6e560f3.chunk.js": "/homyzrealestate/static/js/787.f6e560f3.chunk.js",
+    "static/media/man-1.jpeg": "/homyzrealestate/static/media/man-1.6d774971ffdb9a3ecfa1.jpeg",
+    "static/media/modern-home.jpg": "/homyzrealestate/static/media/modern-home.1c2ccd7da8716761f06c.jpg",
+    "static/media/home-1.jpg": "/homyzrealestate/static/media/home-1.161d9a6316160da20f05.jpg",
+    "static/media/apartment-5.jpg": "/homyzrealestate/static/media/apartment-5.7e51b736f3430649c0e7.jpg",
+    "static/media/home-8.jpg": "/homyzrealestate/static/media/home-8.b1995c2ae83375dabb3e.jpg",
+    "static/media/apartment-4.jpg": "/homyzrealestate/static/media/apartment-4.81dc4cf01e5120a43abe.jpg",
+    "static/media/modern-house-1.jpg": "/homyzrealestate/static/media/modern-house-1.9ffac82f13d3edc447de.jpg",
+    "static/media/white-shadow.png": "/homyzrealestate/static/media/white-shadow.c6b9ddac105f8670d81f.png",
+    "static/media/apartment-1.jpg": "/homyzrealestate/static/media/apartment-1.e51904a4f6d47b96a841.jpg",
+    "static/media/home-7.jpeg": "/homyzrealestate/static/media/home-7.1aab3b2a54689194f496.jpeg",
+    "static/media/home-3.jpeg": "/homyzrealestate/static/media/home-3.d41678f75a74aa961233.jpeg",
+    "static/media/apartment-2.jpg": "/homyzrealestate/static/media/apartment-2.f25908bc97f6e99d5dfd.jpg",
+    "static/media/apartment-3.jpg": "/homyzrealestate/static/media/apartment-3.58f9ca76020f3c330a7c.jpg",
+    "static/media/home-2.jpeg": "/homyzrealestate/static/media/home-2.f03f67c141352624ac5d.jpeg",
+    "static/media/home-6.jpg": "/homyzrealestate/static/media/home-6.f97bc80c314adf367498.jpg",
+    "static/media/home-9.jpeg": "/homyzrealestate/static/media/home-9.907ccc262bf007467bbd.jpeg",
+    "static/media/home-4.jpeg": "/homyzrealestate/static/media/home-4.3892f8119e1682f7610c.jpeg",
+    "static/media/man-2.avif": "/homyzrealestate/static/media/man-2.b2fa3eb3f06b9fab5804.avif",
+    "static/media/logo-blue.png": "/homyzrealestate/static/media/logo-blue.cc787ec9169d9a339bf3.png",
+    "static/media/logo-white.png": "/homyzrealestate/static/media/logo-white.89da5ffba14032430336.png",
+    "static/media/featured-2.png": "/homyzrealestate/static/media/featured-2.890f39ff306f4af3af06.png",
+    "static/media/featured-4.png": "/homyzrealestate/static/media/featured-4.0d4c5f0d3ee50f3ab017.png",
+    "static/media/featured-3.png": "/homyzrealestate/static/media/featured-3.3c1c80f931a0ef39ccb3.png",
+    "static/media/featured-1.png": "/homyzrealestate/static/media/featured-1.25cb12736e5feeef6a04.png",
+    "static/media/man-3.avif": "/homyzrealestate/static/media/man-3.f964eac92447ea63aaea.avif",
+    "static/media/women-1.jpg": "/homyzrealestate/static/media/women-1.2b0b7d478ea279750099.jpg",
+    "static/media/women-2.avif": "/homyzrealestate/static/media/women-2.e9c6a47d22a565d8fa67.avif",
+    "static/media/women-3.avif": "/homyzrealestate/static/media/women-3.6f11f8a5e77d0a438a60.avif",
+    "index.html": "/homyzrealestate/index.html",
+    "main.41c403ed.css.map": "/homyzrealestate/static/css/main.41c403ed.css.map",
+    "main.e87e05e1.js.map": "/homyzrealestate/static/js/main.e87e05e1.js.map",
+    "787.f6e560f3.chunk.js.map": "/homyzrealestate/static/js/787.f6e560f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41c403ed.css",
+    "static/js/main.e87e05e1.js"
+  ]
+}
